@@ -19,3 +19,4 @@ This site was built using [Clever Programmer Tutorials](https://www.youtube.com/
 ## **Sample of the web app**
 You can watch the site here [Click me!](https://clone-31d90.web.app/)
 
+# amazon-clone
